@@ -12,6 +12,6 @@ public class Insulter {
     private int id;
     private String name;
     private String insult;
-    private int rating; 
+    private int rating;
 
 }
